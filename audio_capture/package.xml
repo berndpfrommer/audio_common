@@ -27,6 +27,11 @@
 
    <build_depend>libgstreamer1.0-dev</build_depend>
    <build_depend>libgstreamer-plugins-base1.0-dev</build_depend>
+   <build_depend>gstreamer1.0</build_depend>
+   <build_depend>gstreamer1.0-alsa</build_depend>
+   <build_depend>gstreamer1.0-plugins-base</build_depend>
+   <build_depend>gstreamer1.0-plugins-good</build_depend>
+   <build_depend>gstreamer1.0-plugins-ugly</build_depend>
 
    <exec_depend>audio_common_msgs</exec_depend>
    <exec_depend>launch_xml</exec_depend>
